@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Profile"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow"
+        android:layout_marginBottom="100dp"
+        app:title="Record"
+        app:titleTextColor="@color/white"
+        >
+
+        <ImageView
+            android:id="@+id/backtomain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginEnd="15dp"
+            android:src="@drawable/ic_baseline_keyboard_backspace_24" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="20dp">
+
+        <ImageView
+            android:id="@+id/qrcode"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginBottom="50dp"
+            android:foregroundGravity="center_horizontal"
+            android:scaleType="centerCrop"
+            android:src="@drawable/utilisateur" />
+
+
+
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SCORE"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center_horizontal"
+        android:textFontWeight="@integer/material_motion_duration_long_1"
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:id="@+id/points"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="10"
+        android:textColor="@color/black"
+        android:textFontWeight="@integer/material_motion_duration_long_1"
+        android:textSize="46dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="points"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="@integer/material_motion_duration_long_2"
+        android:textFontWeight="@integer/material_motion_duration_long_1"
+        android:textSize="26sp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="@color/black"
+        />
+
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable-v24/ic_baseline_arrow_downward_24.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable-v24/ic_baseline_arrow_upward_24.xml" value="0.121" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable-v24/ic_dots.xml" value="0.104" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable/bottom.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable/customborder.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable/header.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable/ic_baseline_phone_enabled_24.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable/roundedbtn.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/drawable/test_background.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/Home.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_choosewaytoupdatepp.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_conversations_recycler.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_fetchoffersbysubcat.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_introduce.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_item_details.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_itemdetails.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_items_iwant_recycler.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_itemsrecycler.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_logn_in.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_no_items_founded.xml" value="0.264" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_noitemsforthissubcat.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_nonetwork.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_record.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_slider.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_splash2.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/carddesign.xml" value="0.2" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/custom_grid_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/customconfirmadresse.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/eachecategory.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/fragment_helpfragment.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/fragment_logoutfragment.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/fragment_recordfragment.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/fragment_settingsfragment.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/itemsdetails.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/navigationheader.xml" value="0.264" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/oneconversation.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/layout/oneitem.xml" value="0.264" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/menu/sidebar.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/mipmap-anydpi-v26/logoicon.xml" value="0.128" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/3ATAE/app/src/main/res/mipmap-anydpi-v26/logoicon_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
